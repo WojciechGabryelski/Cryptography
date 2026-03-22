@@ -2,7 +2,7 @@
 
 This collection contains solutions to tasks from cryptography laboratory assignments, including:
 
- - finding collisions in the MD5 hash function,
+ - finding collisions in the MD5 hash function from Mbed TLS library (https://github.com/Mbed-TLS/mbedtls/tree/3304f253d7aa4b5b18e772c455b2113f7af29ca5),
  - various implementations of Galois fields (separate implementations for $F_p$ and $F_{p^k}$ for any prime number $p$ and any positive integer $k$, as well as an optimized implementation for binary field $F_{2^k}$), along with the Diffie-Hellman protocol implemented for all these fields,
  - implementations of elliptic curve groups over $F_{p^k}$ and $F_{2^k}$ for any prime number $p$ and positive integer $k$, including the Diffie-Hellman protocol and Schnorr signature.
 
@@ -12,7 +12,7 @@ Detailed task descriptions are available in the .pdf files located in the subdir
 
 Zbiór rozwiązań zadań z list laboratoryjnych z kryptografii obejmuje:
 
- - znajdowanie kolizji funkcji haszującej MD5,
+ - znajdowanie kolizji funkcji haszującej MD5 z biblioteki Mbed TLS (https://github.com/Mbed-TLS/mbedtls/tree/3304f253d7aa4b5b18e772c455b2113f7af29ca5),
  - różne implementacje ciał Galois (osobne dla $F_p$ oraz $F_{p^k}$ dla dowolnej liczby pierwszej $p$ i dodatniej liczby naturalnej $k$, a także zoptymalizowana implementacja dla ciał $F_{2^k}$), wraz z implementacją protokołu Diffiego-Hellmana dla wszystkich tych ciał,
  - implementacje grup krzywych eliptycznych nad ciałami $F_{p^k}$ i $F_{2^k}$ dla dowolnej liczby pierwszej $p$ i dodatniej liczby naturalnej $k$, wraz z implementacją protokołu Diffiego-Hellmana oraz podpisu Schnorra.
 

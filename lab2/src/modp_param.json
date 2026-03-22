@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "type": "modp",
+  "params": {
+    "name": "modp2048",
+    "modulus": "Qxci8Awt2uNtMIoiAGoUfnVMeFhGiPFZEo3Gvp8HUKV1mFTRg-pFDgeaU6TDZ0sXwCFEBZ2x0ZA8FmWdZoaoiuacnruIPTkyYxmjsmzGvkVWPclYbY9sjDsA0cp2ntLKghyDmhSVyWAzV9r8tebvz4U-kKMI-kSvmpZot2mavWLdyzFpnbl42CefLhTOv4jwnmt-4x009_6XQOvNtpx7-StDbqvW_U7Msdrlm006S8_AAzAMZZBFl6B8YxBJtl5kGuo-hPo6mDhlCxsO-kum6t6MLA_2Ur2st8cklRI8aee7FjOQP-dKTc0Y92zlKqCZekLRRNRB31_eqVBiLGb9uQ",
+    "generator": "J0k1jgMGenUbFU60WErZfASl9JoLRnPlbC6gfySKw3mfUeobRvNrtlPpgOZejLH_19r-NOMDcK-BvMjZnj8SbQ1e3y-I_J_kF1-0VjljeSX0P-mZ-BbLjs1lVth3S_QHuiyZhvg-Yn_yle4CuT1L2D4Bl47x6WOYeYmfKUEmd-MPyv3ymBDAfXVg0Dx19UpngRejqGaSYWBaNKnUmnnAQYnPKrc3SbPOYolqjTQVWGepsPUWlX2R8FUiYxkukd9wRMwA93ZYDsCqLsYDVzZWGgSyNQt2ySI--sBwmymXGF-T4eeFNrcPO-QkCKrk_-V4Ym5_lrXe5xPAbt7qu4qURw",
+    "order": "f________________________________________-0"
+  }
+}

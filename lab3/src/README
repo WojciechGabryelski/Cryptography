@@ -1,0 +1,7 @@
+Requirements:
+- GCC version 11 or later
+- GNU MP
+- Python3
+- pybind11
+- GNU Make
+

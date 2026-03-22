@@ -1,0 +1,31 @@
+{
+    "status": "success",
+    "type": "fpk",
+    "params": {
+      "name": "gf256189e8",
+      "prime_base": "_________________________________________0M",
+      "extension": 8,
+      "modulus": [
+        "Aw",
+        "AQ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "generator": [
+        "EP6FzJDsOcmqN8VdIO4jxmkO6Q3y3Ha9OBjJJn_Iryo",
+        "3LKO0rULyFLFtCcJqoEjHaMuBakGapA6eTjYkALpza4",
+        "6_MkSRt3Nuv-N8Ld3s6Nk1-ZQfpT_VxG2UOK3sCgR5c",
+        "Hi4xq1ALLBWsPnkjiQOSnNFuAshrFRc0Af7mJ9KqZdM",
+        "gtO8mKBXcJEyfGqz0wTTVmuh_quGXrhmF4xgTqSe-28",
+        "SnyHszbHJvMp57QZqoSD7HUlBde_Yc5EaGwRVGaq5Z8",
+        "ow3L-34mAHI3cw_2T46hMsNKBM3fBha0jL7cRJiVQjk",
+        "SLQUikfC3VTxdmvFUJdOAyaBSlQo4YStq54f4hGWMW0"
+      ],
+      "order": "KgAreh_LPicd-8sXR1fOg9vGw4ho0WPDpFwtVLZ0ZC8CAuuflcjBcGtJ3qDA-cUUa3nF6OhWfvgWa0tjwgJ5R6VZJFWM63etyLl-IWIyUGIFo-v3Ae6ZQ71XwAeCYxs6MQ"
+    }
+  }
+  
